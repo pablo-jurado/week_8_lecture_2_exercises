@@ -1,5 +1,5 @@
 var div = document.querySelector('div'),
-    alertEvent = new Event('alert')
+  alertEvent = new Event('alert')
 
 var callout = function (event) {
   console.log(event)
